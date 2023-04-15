@@ -9,7 +9,7 @@
 - 💵 I have a lot of vouchers about my last customers
 
 ---
-### 🤓 I work with these softwards currently:
+### 🤓 I work with these softwares currently:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/640px-Kotlin_Icon.png" alt="KOTLIN" width="45" height="45"/>
@@ -44,3 +44,4 @@
 ---
 ### 🥂 Actually Projects:
 - PlayMides Network - A Minecraft MiniGames Network based on PvP (playmides.net - Developer)
+- Mides Projects - A Company whose objective is to develop, support and manage projects. (midesprojects.net - Developer)
