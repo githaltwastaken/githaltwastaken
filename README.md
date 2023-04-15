@@ -5,7 +5,7 @@
 - 🏦 I'm a computing student who specializes in hardware and software.
 - 🤔 I am fluent in using the ```Java``` & ```Kotlin``` Language.
 - 💬 Feel free to contact me on any of my social platforms!
-- 🕚 I working on the development world 3 years ago
+- 🕚 I working on the development world 4 years ago
 - 💵 I have a lot of vouchers about my last customers
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 ### 🐱My Github Statistics:
-![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githalt&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
+![githalt's github stats](https://github-readme-stats.vercel.app/api?username=githaltwastaken&count_private=true&show_icons=true&title_color=b118c9&icon_color=ff59ee&text_color=a0a0a0&bg_color=151515&hide=["stars"])
 
 ---
 ### 📚 History worked projects:
