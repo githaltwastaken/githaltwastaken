@@ -1,6 +1,6 @@
 # Hi there, I'm githalt! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
-- Views: ![views](https://gpvc.arturio.dev/githalt)
+- Views: ![views](https://gpvc.arturio.dev/githaltwastaken)
 - 🌜 I'm 17 and i always want to give the best service to my customers
 - 🏦 I'm a computing student who specializes in hardware and software.
 - 🤔 I am fluent in using the ```Java``` & ```Kotlin``` Language.
