@@ -22,7 +22,7 @@
 ### Contact me if you want in:
 - 🐦 Twitter: https://twitter.com/githaltwastaken
 - ✈ Telegram: https://t.me/@githalt
-- 📧 Discord: githalt#1815
+- 📧 Discord: githalt#3026
 - 🏷️ Repository: working in a new one
 
 ---
