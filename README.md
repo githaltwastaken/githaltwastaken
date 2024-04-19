@@ -1,12 +1,12 @@
-# Hi there, I'm githalt! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm Nicolás! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
 - Views: ![views](https://gpvc.arturio.dev/githaltwastaken)
 - 🌜 I'm 18 and i always want to give the best service to my customers
-- 🏦 I'm a computing student who specializes in hardware and software.
-- 🤔 I normally use ```Java``` & ```Kotlin``` languages to work.
+- 🌍 I'm from Uruguay and im currently bringing my services from home
+- 🏦 I'm a computing student who specializes in hardware and software
+- 🤔 I normally use ```Java``` & ```Kotlin``` languages to work
 - 💬 Feel free to contact me on any of my social platforms!
-- 🕚 I working on the development world 4 years ago
-- 💵 I have a lot of vouchers about my last customers
+- 🕚 I working on the development world 5 years ago
 
 ---
 ### 🤓 I work with these softwares currently:
@@ -24,8 +24,7 @@
 ### Contact me if you want in:
 - 🐦 Twitter: https://twitter.com/githaltwastaken
 - ✈ Telegram: https://t.me/@githalt
-- 📧 Discord: githalt#3026
-- 🏷️ Repository: working in a new one
+- 📧 Discord: githalt
 
 ---
 ### 🐱My Github Statistics:
