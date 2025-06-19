@@ -1,12 +1,12 @@
 # Hi there, I'm Nicolás! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
 - Views: ![views](https://gpvc.arturio.dev/githaltwastaken)
-- 🌜 I'm 19 and i always want to give the best service to my customers
+- 🌜 I'm 20 and i always want to give the best service to my customers
 - 🌍 I'm from Uruguay and im currently bringing my services from home
 - 🏦 I'm a computing student who specializes in hardware and software
 - 🤔 I normally use ```Java``` & ```Kotlin``` languages to work
 - 💬 Feel free to contact me on any of my social platforms!
-- 🕚 I working on the development world 5 years ago
+- 🕚 I working on the development world 6 years ago
 
 ---
 ### 🤓 I work with these softwares currently:
